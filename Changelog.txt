@@ -1,5 +1,5 @@
-{ "Gold": { "update_code": "7", "reminder_time": "3", "update_version": "v20.25", "com.flwhatsapp": "https://minalqalb2019.blogspot.com/2022/10/flwhatsapp.html", "com.fl2whatsapp": "https://minalqalb2019.blogspot.com/2022/10/fl2whatsapp.html","com.fl3whatsapp": "https://minalqalb2019.blogspot.com/2023/07/fl3whatsapp.html","com.fl4whatsapp": "https://minalqalb2019.blogspot.com/2023/07/fl4whatsapp.html","com.fl5whatsapp": "https://minalqalb2019.blogspot.com/2023/07/fl5whatsapp.html","com.whatsabofella": "https://minalqalb2019.blogspot.com/2022/10/flwhatsapp.html","com.whatsapp": "https://minalqalb2019.blogspot.com/2022/10/flwhatsapp.html", "update_message": " 
-<p>Update Vتحديث « 20.25</p>
+{ "Gold": { "update_code": "7", "reminder_time": "3", "update_version": "v20.41", "com.flwhatsapp": "https://minalqalb2019.blogspot.com/2022/10/flwhatsapp.html", "com.fl2whatsapp": "https://minalqalb2019.blogspot.com/2022/10/fl2whatsapp.html","com.fl3whatsapp": "https://minalqalb2019.blogspot.com/2023/07/fl3whatsapp.html","com.fl4whatsapp": "https://minalqalb2019.blogspot.com/2023/07/fl4whatsapp.html","com.fl5whatsapp": "https://minalqalb2019.blogspot.com/2023/07/fl5whatsapp.html","com.whatsabofella": "https://minalqalb2019.blogspot.com/2022/10/flwhatsapp.html","com.whatsapp": "https://minalqalb2019.blogspot.com/2022/10/flwhatsapp.html", "update_message": " 
+<p>Update Vتحديث « 20.41</p>
 <li>تحديث جديد ممتع</li>
 <li>يحتوي على العديد من المزايا الجديد الرائعة</li>
 <li>مزيد إصلاحات وتحسينات أخرى مهمة</li>
